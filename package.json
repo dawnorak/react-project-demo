@@ -40,7 +40,7 @@
   },
   "devDependencies": {
     "jest": "^27.5.1",
-    "jest-sonar-reporter": "^2.0.1",
+    "jest-sonar-reporter": "^2.0.0",
     "sonarqube-scanner": "^2.8.2"
   },
   "jest": {
