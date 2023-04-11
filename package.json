@@ -49,9 +49,6 @@
       "src/**/*.{js,jsx}",
       "!src/reportWebVitals.js",
       "!src/index.js"
-    ],
-    "transform": {
-      "^.+\\.jsx?$": "babel-jest"
-    }
+    ]
   }
 }
