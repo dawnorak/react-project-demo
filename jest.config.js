@@ -1,6 +1,6 @@
 module.exports = {
-    // ...
-    transform: {
-      "^.+\\.jsx?$": "babel-jest"
-    }
-};  
+  preset: 'jest-puppeteer',
+  transform: {
+    '^.+\\.(js|jsx)$': 'babel-jest',
+  },
+};
